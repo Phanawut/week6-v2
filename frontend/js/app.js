@@ -85,7 +85,7 @@ function createTaskCard(task) {
     
     const priorityEmoji = {
         'LOW': '🟢',
-        'MEDIUM': '��',
+        'MEDIUM': '🟡',
         'HIGH': '🔴'
     };
     
